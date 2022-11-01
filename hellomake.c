@@ -1,4 +1,5 @@
 #include "hellomake.h"
+#include "eightqueens.h"
 
 int main()
 {
@@ -6,6 +7,7 @@ int main()
   myPrintHelloMake();
   myPrintLoop();
   myPrintFibonacci();
+  myPrintEightQueens();
 
   return(0);
 }
