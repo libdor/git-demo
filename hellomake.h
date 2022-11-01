@@ -8,4 +8,6 @@ void myPrintHelloMake(void);
 
 void myPrintLoop(void);
 
+void myPrintFibonacci(void);
+
 #endif
