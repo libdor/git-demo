@@ -9,3 +9,13 @@ void myPrintHelloMake(void)
 
   return;
 }
+
+void myPrintLoop(void)
+{
+  int i;
+
+  for (i = 0; i < 10; i++)
+  {
+    printf("%d ", i);
+  }
+}

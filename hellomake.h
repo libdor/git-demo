@@ -6,4 +6,6 @@
 
 void myPrintHelloMake(void);
 
+void myPrintLoop(void);
+
 #endif
