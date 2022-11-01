@@ -6,5 +6,5 @@ int main()
   myPrintHelloMake();
   myPrintLoop();
 
-  return(0);
+  return 0;
 }
