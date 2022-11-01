@@ -6,4 +6,6 @@
 
 void myPrintHelloMake(void);
 
+void myPrintHelloRupee(void);
+
 #endif
