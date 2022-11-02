@@ -7,6 +7,8 @@ int main()
   myPrintHelloMake();
   myPrintLoop();
   myPrintFibonacci();
+
+  // print eight queens
   myPrintQueens();
 
   return(0);
