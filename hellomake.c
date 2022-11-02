@@ -7,7 +7,7 @@ int main()
   myPrintHelloMake();
   myPrintLoop();
   myPrintFibonacci();
-  myPrintEightQueens();
+  myPrintQueens();
 
   return(0);
 }
